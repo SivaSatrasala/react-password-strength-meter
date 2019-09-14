@@ -48,4 +48,5 @@ class Component extends React.Component {
 
 ## License
 
-React Password Strength Meter is released under the MIT license. See [LICENSE](LICENSE) for details.
+MIT © [Siva Satrasala](https://github.com/SivaSatrasala)
+
